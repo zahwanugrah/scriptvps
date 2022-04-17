@@ -111,7 +111,7 @@ exit 0
 fi
 #wget https://github.com/praiman99/AutoScriptVPN-Xray/raw/beginner/Files/Xray/cf.sh && chmod +x cf.sh && ./cf.sh
 #install xray
-wget https://github.com/praiman99/AutoScriptVPN-Xray/raw/beginner/Files/Xray/ins-vt.sh && chmod +x ins-vt.sh && screen -S xray ./ins-vt.sh
+wget https://github.com/praiman99/AutoScriptVPN-Xray/raw/scriptvps/main/ray/ins-vt.sh && chmod +x ins-vt.sh && screen -S xray ./ins-vt.sh
 #install additional tools
 cd /usr/bin
 wget -O add-host https://github.com/praiman99/AutoScriptVPN-Xray/raw/beginner/Files/Xray/add-host.sh && chmod +x add-host
